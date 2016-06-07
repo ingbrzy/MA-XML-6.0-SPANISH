@@ -64,7 +64,7 @@
         <item>seno</item>
         <item>coseno</item>
         <item>pi</item>
-        <item>es igual</item>
+        <item>es igual a</item>
     </string-array>
     <string-array name="mortgage_repayment">
         <item>等额本息(每月等额还款)</item>
@@ -183,9 +183,9 @@
         <item>Re</item>
     </string-array>
     <string-array name="unit_data_order_time_">
-        <item>yr</item>
-        <item>week</item>
-        <item>day</item>
+        <item>Año</item>
+        <item>semana</item>
+        <item>día</item>
         <item>h</item>
         <item>min</item>
         <item>s</item>
