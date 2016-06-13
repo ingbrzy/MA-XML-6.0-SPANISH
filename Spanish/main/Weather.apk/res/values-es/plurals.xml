@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <plurals name="view_realtime_clear">
-        <item quantity="other">Despejado</item>
-        <item quantity="one">Despejado</item>
-     </plurals>
      <plurals name="activity_main_update_time_in_one_hour">
         <item quantity="other">hace %d minutos</item>
         <item quantity="one">hace %d minuto</item>
@@ -15,5 +11,9 @@
      <plurals name="activity_main_update_time_one_day_ago">
         <item quantity="other">hace %d días</item>
         <item quantity="one">hace %d día</item>
+     </plurals>
+     <plurals name="view_realtime_clear">
+        <item quantity="other">Despejado</item>
+        <item quantity="one">Despejado</item>
      </plurals>
 </resources>
