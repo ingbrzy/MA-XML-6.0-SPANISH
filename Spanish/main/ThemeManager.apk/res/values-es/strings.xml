@@ -25,6 +25,8 @@
   <string name="component_backup_preference_title">Copia de seguridad de los temas</string>
   <string name="component_category_finest_title">GENERAL</string>
   <string name="component_category_more_title">AVANZADO</string>
+  <string name="component_title_ringtone">Tonos</string>
+  <string name="component_title_wallpaper">Fondos de pantalla</string>
   <string name="deleting">Borrando…</string>
   <string name="description_author">Autor</string>
   <string name="description_designer">Diseñador</string>
