@@ -15,6 +15,7 @@
   <string name="alter_message_open_hide_title">¿Administrar uso de batería de aplicaciones?</string>
   <string name="alter_message_switch_mode">¿Cambiar modos?</string>
   <string name="alter_message_switch_mode_message">Cuando cambies modos, tus ajustes previos dejarán de usarse en esta aplicación.</string>
+  <string name="app_invisible_title">Aplicación invisible</string>
   <string name="app_frozen_app_list_summary">Aplicaciones en segundo plano</string>
   <string name="app_list_title">Elegir aplicaciones</string>
   <string name="app_list_total">%d aplicaciones</string>
@@ -58,11 +59,17 @@
   <string name="movie">Película</string>
   <string name="network_mode_title">Red en segundo plano</string>
   <string name="new_group_name">Modo personalizado</string>
+  <string name="new_power_checker_title">Corrector de potencia(nuevo)</string>
   <string name="no_applications">Vacío</string>
   <string name="none">No hay procesos</string>
   <string name="normal">Modo por defecto</string>
   <string name="operation_create_group">Nombre</string>
   <string name="operation_create_group_message">Introduce el nuevo nombre del grupo</string>
+  <string name="power_checker_recent_btn_title">Ajustes de potencia</string>
+  <string name="power_checker_recent_group_title">Recientemente</string>
+  <string name="power_checker_running_btn_title">Forzar cierre</string>
+  <string name="power_checker_running_group_title">Trabajando</string>
+  <string name="power_checker_title">Corrector de potencia</string>
   <string name="power_chooser_user_define_title">Nuevo modo</string>
   <string name="power_config_alarm_sync_summary">Permitir a la aplicación alarmas en segundo plano</string>
   <string name="power_config_alarm_sync_title">Alarma</string>
