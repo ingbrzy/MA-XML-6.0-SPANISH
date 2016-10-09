@@ -1,12 +1,19 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="app_label">Documentos</string>
+  <string name="button_copy">Copiar</string>
+  <string name="button_select">Seleccionar</string>
+  <string name="copy_failure_alert_content">"Estos archivos no se han copiado: %1$s"</string>
+  <string name="copy_notification_title">Copiando archivos</string>
+  <string name="copy_preparing">Preparandose para la copia…</string>
+  <string name="copy_remaining">%s restante</string>
   <string name="create_error">No se pudo crear la carpeta</string>
   <string name="drawer_close">Ocultar árbol de directorios</string>
   <string name="drawer_open">Mostrar árbol de directorios</string>
   <string name="empty">No hay elementos</string>
   <string name="menu_advanced_hide">Ocultar almacenamiento interno</string>
   <string name="menu_advanced_show">Ver almacenamiento interno</string>
+  <string name="menu_copy">Copiar a…</string>
   <string name="menu_create_dir">Crear carpeta</string>
   <string name="menu_delete">Eliminar</string>
   <string name="menu_file_size_hide">Ocultar tamaño de archivo</string>
@@ -16,12 +23,13 @@
   <string name="menu_open">Abrir</string>
   <string name="menu_save">Guardar</string>
   <string name="menu_search">Búsqueda</string>
-  <string name="menu_select">Seleccionar \"^1\"</string>
+  <string name="menu_select_all">Seleccionar todo</string>
   <string name="menu_settings">Ajustes</string>
   <string name="menu_share">Compartir</string>
   <string name="menu_sort">Ordenar por</string>
-  <string name="mode_selected_count">%1$d seleccionados</string>
+  <string name="notification_touch_for_details">Toque para mostrar detalles</string>
   <string name="query_error">Fallo al consultar documentos</string>
+  <string name="retry">Reintentar</string>
   <string name="root_available_bytes">%1$s libre</string>
   <string name="root_recent">Recientes</string>
   <string name="root_type_apps">Más aplicaciones</string>
