@@ -12,7 +12,7 @@
   <string name="mode_msb">MSB</string>
   <string name="mode_standalone">Autónomo</string>
   <string name="position_mode_coldstart">Inicio frio</string>
-  <string name="position_mode_hotstart">Inicio en Caliente</string>
+  <string name="position_mode_hotstart">Inicio en caliente</string>
   <string name="position_mode_warmstart">Inicio cálido</string>
   <string name="reset">Restaurar Valores por Defecto</string>
   <string name="save">Guardar</string>
@@ -23,5 +23,5 @@
   <string name="slp_template">Planilla SLP</string>
   <string name="slp_templatechoose">Elegir Plantilla SLP</string>
   <string name="supl_logging">Ingreso SUPL</string>
-  <string name="user_plane_settings">Plano de Ajustes de usuario</string>
+  <string name="user_plane_settings">Plano de Ajustes de Usuario</string>
 </resources>

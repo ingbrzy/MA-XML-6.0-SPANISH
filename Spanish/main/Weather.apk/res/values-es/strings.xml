@@ -13,7 +13,6 @@
   <string name="activity_find_city_dialog_message">La aplicación del clima podrá usar el servicio de ubicación</string>
   <string name="activity_find_city_dialog_set">Ajustes</string>
   <string name="activity_find_city_dialog_title">Servicio de localización</string>
-  <string name="activity_main_refresh_fail">No fue posible la conexión a la red</string>
   <string name="activity_main_time_format">E</string>
   <string name="activity_main_update_time">Actualizado %1$s</string>
   <string name="activity_main_update_time_right_now">ahora</string>
@@ -60,6 +59,7 @@
   <string name="button_sure_abandon">¿Descartar los cambios?</string>
   <string name="close">Cerrar</string>
   <string name="commercial">Comercial</string>
+  <string name="common_loading_text">Un momento…</string>
   <string name="daily_forcast_drawer_on_bottom">Ocultar</string>
   <string name="daily_forcast_drawer_on_top">Ver más días</string>
   <string name="daily_forcast_no_stable_direction">Sin viento</string>
@@ -113,6 +113,8 @@
   <string name="international_details_uv_index_title">ÍNDICE UV</string>
   <string name="international_details_wind_connect">%1$s %2$s</string>
   <string name="international_details_wind_title">VIENTO</string>
+  <string name="locate_fail_detail_err">No se puede localizar el dispositivo
+Toque la pantalla para añadir o reposicionar manualmente la ciudad</string>
   <string name="location_management">Ubicaciones</string>
   <string name="location_tag">Localizar</string>
   <string name="menu_add_city">Añadir o borrar la ciudad</string>
@@ -126,6 +128,7 @@
   <string name="realtime_aqi_title">Índicador de Calidad del Aire</string>
   <string name="realtime_humidity_title">Humedad relativa</string>
   <string name="realtime_wind_default_title">Viento</string>
+  <string name="refresh_fail">"No se pudo conectar a la red"</string>
   <string name="retry">Inténtalo de nuevo</string>
   <string name="set">Ajustes</string>
   <string name="set_degree_centigrade">°C</string>

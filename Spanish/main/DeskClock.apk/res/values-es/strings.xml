@@ -52,7 +52,7 @@
   <string name="force_touch_add_alarm">Añadir alarma</string>
   <string name="force_touch_enter_stopwatch">Cronógrafo</string>
   <string name="force_touch_enter_timer">Temporizador</string>
-  <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
+  <string name="full_wday_month_day_no_year">EEEE, d \'de\' MMMM</string>
   <string name="hour">1 hora</string>
   <string name="hour_unit">Hr +</string>
   <string name="hours">%s horas</string>
@@ -80,7 +80,7 @@
   <string name="never">Una vez</string>
   <string name="oneshot_alarm">Eliminar después de apagar la alarma</string>
   <string name="pause">Pausa</string>
-  <string name="remind_ringtone">Tono de llamada</string>
+  <string name="remind_ringtone">Tono de alarma</string>
   <string name="reset">Reiniciar</string>
   <string name="revert">Revertir</string>
   <string name="set_alarm">Ajustar alarma</string>
@@ -90,7 +90,7 @@
   <string name="shutdown_alarm_title">Alarma de apagado</string>
   <string name="silent_alarm_summary">Silenciar</string>
   <string name="skip_alarm_date_format">%1$s (%2$s)</string>
-  <string name="skip_alarm_once_hint">Apague una vez %s</string>
+  <string name="skip_alarm_once_hint">Apagar una vez %s</string>
   <string name="slider_text">Deslice hacia arriba para cerrar</string>
   <string name="snooze_confirm_cancel">Cancelar repetición</string>
   <string name="snooze_duration_title">Repetir alarmas</string>
@@ -128,6 +128,8 @@
   <string name="tomorrow">Mañana</string>
   <string name="turn_off_a_repeat_alarm">Desactivar alarmas repetidas</string>
   <string name="turn_off_this_repeat_alarm">Desactivar esta alarma de repetición</string>
+  <string name="upcoming_alarm"> Próxima alarma</string>
+  <string name="upcoming_alarm_hint">Puede cerrar esta alarma con antelación</string>
   <string name="vibrate_pref_summary">Vibrar cuando suene la alarma</string>
   <string name="vibrate_when_ringing">Vibrar al sonar</string>
   <string name="volume_button_setting_summary">"Establecer una función a los Botones de Volumen durante la Alarma"</string>

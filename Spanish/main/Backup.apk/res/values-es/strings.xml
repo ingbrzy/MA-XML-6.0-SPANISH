@@ -52,14 +52,14 @@
   <string name="button_return">Atrás</string>
   <string name="button_send">Enviar</string>
   <string name="call_title">Registros de llamadas</string>
-  <string name="camera_summary">Ajustes de cámara (sin incluír fotos)</string>
+  <string name="camera_summary">Ajustes de cámara (sin incluir fotos)</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_backup">Parar</string>
   <string name="cancel_restore">Parar</string>
   <string name="click_to_view">Tocar para ver</string>
   <string name="cloud_app_name">Copia de seguridad de Mi Cloud</string>
   <string name="cloud_backup_hint">Para acceder a sus copias de seguridad, inicie sesión ahora</string>
-  <string name="cloud_backup_login">Inicia sesión con tu cuenta Mi</string>
+  <string name="cloud_backup_login">Inicia sesión con tu Cuenta Mi</string>
   <string name="cloud_backup_window_title">Copia de seguridad de Mi Cloud</string>
   <string name="cloud_home_title">Mi Cloud</string>
   <string name="cloud_item_info_summary">" (Local: %1$s | Mi Cloud: %2$s)"</string>
@@ -77,7 +77,7 @@
   <string name="current_phone_location">Teléfono</string>
   <string name="current_sim">Actual tarjeta SIM</string>
   <string name="custom_progress">%d items</string>
-  <string name="data_item_desc">Data</string>
+  <string name="data_item_desc">Datos</string>
   <string name="data_no_enough_space_message">No hay suficiente espacio en la memoria interna del teléfono.</string>
   <string name="date_format">aaaa-MM-dd HH:mm:ss</string>
   <string name="delete">Eliminar</string>
@@ -93,7 +93,7 @@
   <string name="enable_encrypt_indicator">Toque para cifrar</string>
   <string name="enable_encrypt_ok">Aceptar</string>
   <string name="enable_encrypt_summery1">Tienes que iniciar sesión con tu cuenta Mi para acceder a las copias de seguridad cifradas.</string>
-  <string name="enable_encrypt_summery2">Las copias de seguridad se cifrarán automáticamente. Necesitarás iniciar sesión en tu cuenta Mi para acceder a las copias de seguridad cifradas.</string>
+  <string name="enable_encrypt_summery2">Las copias de seguridad se cifrarán automáticamente. Necesitarás iniciar sesión en tu Cuenta Mi para acceder a las copias de seguridad cifradas.</string>
   <string name="enable_encrypt_title">Activar el cifrado</string>
   <string name="enable_encrypt_xiaomi_account">Esta copia de seguridad fue creada por %1$s. Para restaurar, borrar la cuenta actual e iniciar sesión como %2$s.</string>
   <string name="err_authentication_failed">Autentificación fallida</string>
@@ -137,7 +137,7 @@
   <string name="local_select_sysdata">Sistema</string>
   <string name="local_select_userapp">Aplicaciones</string>
   <string name="local_select_video">Videos</string>
-  <string name="miliao_account_guide">Crear una cuenta Mi para disfrutar de todos los servicios en línea de Xiaomi</string>
+  <string name="miliao_account_guide">Crear una Cuenta Mi para disfrutar de todos los servicios en línea de Xiaomi</string>
   <string name="miliao_account_login">Inicia sesión con MiTalk</string>
   <string name="mms_title">Mensajes multimedia</string>
   <string name="multi_select_title">%1$s seleccionados</string>
@@ -157,7 +157,9 @@
   <string name="notif_restore_content">Restableciendo datos de usuario</string>
   <string name="notif_restore_title">Restableciendo datos</string>
   <string name="notif_trans_receiving_completed">Datos recibidos con éxito</string>
+  <string name="notif_trans_receiving_failed">Error al recibir los datos</string>
   <string name="notif_trans_sending_completed">Datos enviados con éxito</string>
+  <string name="notif_trans_sending_failed">Error al enviar los datos</string>
   <string name="page_loading">Un momento…</string>
   <string name="progress_backup_hint">Haciendo copia de seguridad…</string>
   <string name="progress_restore_hint">Restaurando…</string>
@@ -188,7 +190,7 @@
   <string name="sc_internal_server_error">Error interno del servidor</string>
   <string name="sc_network_unavailable">Error de conexión a red</string>
   <string name="sc_others">Se ha producido un error</string>
-  <string name="sc_precondition_failed">Tienes que asociar tu cuenta Mi con una dirección válida de email</string>
+  <string name="sc_precondition_failed">Tienes que asociar tu Cuenta Mi con una dirección válida de email</string>
   <string name="sc_request_timeout">Agotado el tiempo de solicitud</string>
   <string name="sc_service_unavailable">Mi Cloud no accesible</string>
   <string name="sc_unaccess_password_file">No guardar la contraseña Wi-Fi</string>
@@ -214,9 +216,9 @@
   <string name="state_mounting">Accediendo al almacenamiento del router…</string>
   <string name="state_waiting">Un momento…</string>
   <string name="succeed">Completa</string>
-  <string name="summary_err_backup_encrypting">Conéctate a la cuenta Mi.</string>
+  <string name="summary_err_backup_encrypting">Conéctate a la Cuenta Mi.</string>
   <string name="summary_err_backup_no_network">No se pudo conectar a la red</string>
-  <string name="summary_err_restore_encrypting">No se pudo restaurar. Asegúrate que el respaldo haya sido hecho usando tu cuenta Mi.</string>
+  <string name="summary_err_restore_encrypting">No se pudo restaurar. Asegúrate que el respaldo haya sido hecho usando tu Cuenta Mi.</string>
   <string name="summary_err_restore_no_network">No se pudo conectar a la red</string>
   <string name="system_backup">Copia de seguridad</string>
   <string name="system_backup_info">Configuración del sistema y disposición de la pantalla de inicio</string>

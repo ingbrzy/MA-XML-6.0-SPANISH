@@ -38,7 +38,10 @@
   <string name="attach_take_photo">Tomar foto</string>
   <string name="attach_video">Vídeo</string>
   <string name="audio_download_failed">No se puede descargar audio</string>
+  <string name="audio_message_expired">Este mensaje de voz ha expirado.</string>
+  <string name="audio_message_mx_offline">"No se pudo descargar el audio. Mi Mensaje está desconectado o no está disponible."</string>
   <string name="audio_playing_seconds">%d\"</string>
+  <string name="audio_sim_card_mismatching">No hay conexión de red o la tarjeta SIM insertada no es la correcta. Introduzca la tarjeta SIM desde el que se envió el mensaje y conéctese a la red.</string>
   <string name="back_to_message_list">Volver a la lista de mensajes</string>
   <string name="batch_adding_progress_message">Agregando…</string>
   <string name="batch_delete_confirm_dialog_message">¿Eliminar %1$s mensajes?</string>
@@ -48,7 +51,7 @@
   <string name="block_messaging_entry_title">SMS bloqueados</string>
   <string name="block_support_text">Apoyado por Antiy.</string>
   <string name="bookmark">Favorito</string>
-  <string name="bookmark_confirm_delete_message">No abrir mensajes seleccionados?</string>
+  <string name="bookmark_confirm_delete_message">¿No destacar los mensajes seleccionados?</string>
   <string name="bookmark_empty">No hay mensajes destacados</string>
   <string name="bookmark_list_title">Favoritos</string>
   <string name="call_sender">Call sender</string>
@@ -98,7 +101,7 @@
   <string name="context_menu_add_contact">Agregar a contactos</string>
   <string name="context_menu_add_to_browser_favorite">Añadir a favoritos del navegador</string>
   <string name="context_menu_browse_web">Navegar</string>
-  <string name="context_menu_call">Llamada</string>
+  <string name="context_menu_call">Llamar</string>
   <string name="context_menu_contact">Contacto: %1$s</string>
   <string name="context_menu_copy">Copiar</string>
   <string name="context_menu_copy_notice">Copiar al portapapeles</string>
@@ -148,8 +151,6 @@
   <string name="edit_phrase">Editar respuestas rápidas</string>
   <string name="edit_slide_activity">Editar diapositivas</string>
   <string name="edit_slideshow_activity">Editar diapositivas</string>
-  <string name="enable_password_protect">Se requiere contraseña</string>
-  <string name="enable_visible_pattern_title">Hacer visible el patrón</string>
   <string name="english_subject_limit">límite de 40 caracteres</string>
   <string name="enter_edit_mode">Editar mensajes</string>
   <string name="error_code_label">"Código de error: "</string>
@@ -190,7 +191,7 @@
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">¿Cargar mensajes %1$s a %2$s?</string>
   <string name="found_old_messages_title">¿Cargar mensajes de tus otras tarjetas SIM?</string>
-  <string name="found_wild_messages_guide_cloud_desc">Para sincronizar los mensajes desde Mi Cloud, entra en tu cuenta Mi y activa la sincronización de SMS.</string>
+  <string name="found_wild_messages_guide_cloud_desc">Para sincronizar los mensajes desde Mi Cloud, entre en su Cuenta Mi y active la sincronización de SMS.</string>
   <string name="found_wild_messages_guide_settings_desc">Sync messages from Mi Cloud in Messaging Settings.</string>
   <string name="found_wild_messages_guide_sync_not_started">Sync not started yet</string>
   <string name="found_wild_messages_title">Descargar mensajes</string>
@@ -208,6 +209,7 @@
   <string name="hms_first_use_tips">Para recibir mensajes de servicio, usted necesita estar conectado a una red Wi-Fi</string>
   <string name="hms_uri_param_err">La URL no puede estar vacia</string>
   <string name="hold_to_talk">Mantenga presionado para hablar</string>
+  <string name="i_know">Ok</string>
   <string name="importing_progress_private_message">Importar mensajes…</string>
   <string name="in_sms">Mensaje</string>
   <string name="insufficient_drm_rights">Insuficientes derechos DRM.</string>
@@ -224,7 +226,7 @@
   <string name="me">Yo</string>
   <string name="menu_add_black">Bloquear este número</string>
   <string name="menu_add_contact">Añadir a contacto existente</string>
-  <string name="menu_call">Llamada</string>
+  <string name="menu_call">Llamar</string>
   <string name="menu_compose_new">Componer</string>
   <string name="menu_contact">Contacto</string>
   <string name="menu_delete_messages">Eliminar mensajes</string>
@@ -261,7 +263,7 @@
   <string name="message_size_label">"Tamaño del mensaje: "</string>
   <string name="message_too_big_for_audio">Mensaje demasiado grande</string>
   <string name="message_too_big_for_video">Mensaje demasiado grande para insertar un vídeo.</string>
-  <string name="message_type_label">"Escribir: "</string>
+  <string name="message_type_label">"Tipo: "</string>
   <string name="messagelist_sender_self">Yo</string>
   <string name="mipub_messaging_entry_title">Mensajes Mi</string>
   <string name="mms">MMS</string>
@@ -303,7 +305,7 @@
   <string name="mx_activate_status_desc_query_activte_info">Comprobando información de la SIM…</string>
   <string name="mx_activate_status_desc_request_activation_sms_phone_error">El número de teléfono introducido es inválido</string>
   <string name="mx_activate_status_desc_wait_for_sms_fail">No se pudo activar Mensajes Mi</string>
-  <string name="mx_and_voip_enable">Mensajes Mi &amp; Voice</string>
+  <string name="mx_and_voip_enable">Mensajes Mi y Voz</string>
   <string name="mx_and_voip_enable_popup_msg">Enviar mensajes y hacer llamadas a otros usuarios de MIUI sin incurrir en gastos con tu proveedor. VoIP desarrollada por Weihui. Ver Política de Privacidad de Weihui.</string>
   <string name="mx_and_voip_enable_popup_msg2">Política de Privacidad</string>
   <string name="mx_auto_resend_mms">Enviar como MMS</string>
@@ -358,7 +360,7 @@
   <string name="nosend_message">No enviar</string>
   <string name="notification_failed_multiple">%s mensajes no pueden ser enviados</string>
   <string name="notification_failed_multiple_title">Mensaje no enviado</string>
-  <string name="notification_multiple">%s mensajes no leídos</string>
+  <string name="notification_multiple">[%s]</string>
   <string name="notification_multiple_title">Nuevo mensaje</string>
   <string name="number_add_hint">Introduzca número de teléfono</string>
   <string name="open_audio_record_panel">Abrir panel de grabación de audio</string>
@@ -386,7 +388,7 @@
   <string name="pref_other_title">Otros</string>
   <string name="pref_show_blocked_messages_summary">Mostrar los SMS bloqueados en la lista de conversaciones</string>
   <string name="pref_show_sms_template_in_summary">Detectar automáticamente OTP en mensajes SMS</string>
-  <string name="pref_show_sms_template_summary">Copiar automáticamente y rellenar los códigos de verificación</string>
+  <string name="pref_show_sms_template_summary">Activar para utilizar las funciones inteligentes de Mi Mensaje, tales como códigos de copiado, balance de comprobación, etc.</string>
   <string name="pref_smart_messages_settings">Mensajes inteligentes</string>
   <string name="pref_sms_theme_title">Pantalla</string>
   <string name="pref_summary_allow_si_sl_push">Permitir mensajes WAP automáticos (SI/SL)</string>
@@ -442,6 +444,14 @@
   <string name="priority_low">Baja</string>
   <string name="priority_normal">Normal</string>
   <string name="privacy_mode_hint">No se puede enviar mensajes en modo Invitado</string>
+  <string name="privacy_password_message1">La contraseña de privacidad funciona para mensajes, fotos, notas y carpetas ocultas.</string>
+  <string name="privacy_password_message2">Utilizar la contraseña de privacidad. Funciona para mensajes, fotos, notas y carpetas ocultas.</string>
+  <string name="privacy_password_message3">La contraseña de mensajería será reemplazada por la contraseña de privacidad que funciona para mensajes, fotos, notas y carpetas ocultas."</string>
+  <string name="privacy_password_set_password">Establecer</string>
+  <string name="privacy_password_title1">Establecer contraseña</string>
+  <string name="privacy_password_title2">Utilizar la contraseña de privacidad</string>
+  <string name="privacy_password_title3">Actualizar contraseña</string>
+  <string name="privacy_password_title4">Contraseña actualizada</string>
   <string name="private_message">Mensajes privados</string>
   <string name="private_new_notification">Notificaciones de mensajes</string>
   <string name="private_protect">Contraseñas</string>
@@ -579,12 +589,12 @@
   <string name="stick">Anclar</string>
   <string name="stick_conversation">PINAR conversación actual</string>
   <string name="sticked_conversation">Conversación liberada</string>
-  <string name="storage_dialog_attachments">Adjuntos Mms:</string>
+  <string name="storage_dialog_attachments">Adjuntos MMS:</string>
   <string name="storage_dialog_available_space">Available_space:</string>
   <string name="storage_dialog_database">Base de datos:</string>
-  <string name="storage_dialog_mms">Mms: %d</string>
-  <string name="storage_dialog_mms_size">Tamaño Mms:</string>
-  <string name="storage_dialog_sms">Sms: %d</string>
+  <string name="storage_dialog_mms">MMS: %d</string>
+  <string name="storage_dialog_mms_size">Tamaño MMS:</string>
+  <string name="storage_dialog_sms">SMS: %d</string>
   <string name="storage_limits_activity">Límites de almacenamiento</string>
   <string name="storage_limits_message">¿Limitar el número de mensajes que guardas por conversación?</string>
   <string name="storage_limits_setting">Establecer límites</string>

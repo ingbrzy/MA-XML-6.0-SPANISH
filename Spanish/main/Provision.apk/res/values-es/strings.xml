@@ -20,7 +20,7 @@
   <string name="input_method_category">Elige el teclado por defecto que usarás al escribir texto en correos electrónicos, notas, etc. Ten en cuenta que después puedes instalar teclados de terceros.</string>
   <string name="input_method_setting">Seleccionar teclado por defecto</string>
   <string name="install_preinstall_app">Cargando aplicaciones…</string>
-  <string name="locale_picker_title">Seleccione su ubicación</string>
+  <string name="locale_picker_title">Seleccione su región</string>
   <string name="miui_privacy_policy_no_network">No tienes conexión a internet. Ver los Términos de Servicio en %s.</string>
   <string name="miui_terms_no_network">No tienes conexión a internet. Ver los Términos de Servicio en %s.</string>
   <string name="multisim_settings_category">Ajustes de la SIM</string>
@@ -32,18 +32,19 @@
   <string name="other_settings_auto_update_summary">MIUI seleccionará el momento más adecuado para descargar e instalar las actualizaciones.</string>
   <string name="other_settings_location">Ubicación</string>
   <string name="other_settings_location_summary">Permitir a las aplicaciones acceder a tu ubicación</string>
-  <string name="other_settings_upload_debug_log_summary">Los datos del diagnóstico pueden incluir  información sobre el uso del hardware, sistema operativo y aplicaciones. Los datos serán utilizados para localizar y analizar los problemas en el sistema y nunca serán utilizados para identificarle personalmente.</string>
+  <string name="other_settings_mifg_online_content">Carrusel de Fondo de pantalla</string>
+  <string name="other_settings_mifg_online_content_summary">Obtener nuevos fondos de pantalla enviados regularmente a su pantalla de bloqueo.</string>
+  <string name="other_settings_upload_debug_log_summary">La información que recogemos se utiliza para localizar y analizar los problemas en el sistema y puede contener información personal. Ningún dato será utilizado para identificarle personalmente.</string>
   <string name="other_settings_upload_debug_log_title">Enviar datos de diagnóstico de forma automática</string>
   <string name="other_settings_user_experience">Programa de experiencia de usuario</string>
-  <string name="other_settings_user_experience_summary">Ayuda a MIUI a mejorar enviando diagnósticos anónimos de uso (%s)</string>
-  <string name="other_settings_user_experience_summary1">ver la Política de Privacidad</string>
+  <string name="other_settings_user_experience_summary">Ayudar a mejorar nuestros productos y servicios mediante el envío de datos de uso anónimos.</string>
   <string name="pref_title_data_slot">Tarjeta SIM de datos preferida</string>
   <string name="pref_title_voice_slot">Tarjeta SIM de voz preferida</string>
   <string name="privacy_policy">Política de Privacidad</string>
   <string name="provision_inputmethod_policy_description">"
 Ver la Política de Privacidad del teclado seleccionado."</string>
   <string name="provision_inputmethod_policy_description1">Política de Privacidad</string>
-  <string name="setting_locale">Configurando su ubicación…</string>
+  <string name="setting_locale">Configurando su región…</string>
   <string name="shut_down">Apagar</string>
   <string name="sim_card_detecting">Comprobando la tarjeta SIM…</string>
   <string name="sim_card_detecting_title">Comprueba que esté la tarjeta SIM</string>

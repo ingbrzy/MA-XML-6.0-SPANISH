@@ -157,7 +157,6 @@
   <string name="color_picker_dialog_title">Seleccionar el color</string>
   <string name="color_picker_hue">Hue</string>
   <string name="color_picker_saturation">Saturación</string>
-  <string name="color_picker_value">Valor</string>
   <string name="comment_app_menu">Comentario</string>
   <string name="comment_menu">Comentario</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.es</string>
@@ -284,13 +283,13 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="empty_snapshot_hint">Vacío</string>
   <string name="empty_snapshots_folder">No hay páginas guardadas.</string>
   <string name="enable_geolocation_confirm_message">Apagar esta característica puede hacer que algunas webs funcionen mal.</string>
-  <string name="enter_developer_mode">Entrar en modo programador</string>
+  <string name="enter_developer_mode">Entrar en modo desarrollador</string>
   <string name="enter_incongnito_mode">Entrar en modo incógnito</string>
   <string name="error_console_eval_button_text">Evaluar</string>
   <string name="error_console_eval_text_hint">Evaluar JavaScript</string>
   <string name="error_console_header_text_maximized">Consola JavaScript</string>
   <string name="error_console_header_text_minimized">Mostrar consola JavaScript</string>
-  <string name="error_forbidden">La sincronización ha sido desactivada debido a problemas con tu cuenta Mi.</string>
+  <string name="error_forbidden">La sincronización ha sido desactivada debido a problemas con tu Cuenta Mi.</string>
   <string name="error_not_acceptable">Se ha desactivado la sincronización.</string>
   <string name="error_title">"No se pudo sincronizar"</string>
   <string name="error_unauthorized">La sincronización se ha desactivado debido a demasiados intentos de iniciar sesión.</string>
@@ -336,7 +335,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="homepage_search_hint">Buscar</string>
   <string name="homepage_set">Establecer página de inicio</string>
   <string name="homepage_top_card_menu">Arriba</string>
-  <string name="in_incognito">"Estás de incógnito! Las páginas web que ves en esta pestaña no aparecen en el historial del navegador."</string>
+  <string name="in_incognito">"¡Estás de incógnito! Las páginas web que ves en esta pestaña no aparecen en el historial del navegador."</string>
   <string name="is_first_history_item">Este es el primer elemento del historial</string>
   <string name="is_first_tab">Esta es la primera pestaña</string>
   <string name="is_last_history_item">Este es el último elemento del historial</string>
@@ -351,7 +350,6 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="js_dialog_before_unload_positive_button">Abandonar esta Página</string>
   <string name="js_dialog_before_unload_title">Confirmar Navegación</string>
   <string name="js_dialog_title">La página en \"%s\" dice:</string>
-  <string name="js_dialog_title_default">JavaScript</string>
   <string name="js_disable_confirm_message">Desactivar JavaScript puede causar que algunos sitios web se visualicen incorrectamente.</string>
   <string name="js_disable_confirm_title">¿Desactivar JavaScript?</string>
   <string name="keep_queued_download">Mantener</string>
@@ -367,6 +365,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="media_error_action_replace_video_source">Cambiar Fuente de vídeo</string>
   <string name="media_error_failure">Reproducción de vídeo fallida</string>
   <string name="media_error_format">Error en formato de Vídeo</string>
+  <string name="media_error_network_unreachable">Red Inaccesible</string>
   <string name="media_error_nomemory">La memoria del teléfono está llena</string>
   <string name="media_error_source">Error en la fuente de Vídeo</string>
   <string name="media_error_timeout">Tiempo excedido de trasmisión por Red</string>
@@ -421,8 +420,8 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="miuichromium_error_page_homepage">Inicio</string>
   <string name="miuichromium_error_page_mobile">Datos móviles</string>
   <string name="miuichromium_error_page_network_hijack">La red actual no es segura</string>
-  <string name="miuichromium_error_page_reason_network">Ver enlace URL</string>
-  <string name="miuichromium_error_page_reason_server">"El navegador no puede cargar esta página"</string>
+  <string name="miuichromium_error_page_network_off">Activar el Wi-Fi o datos móviles</string>
+  <string name="miuichromium_error_page_no_network">"No se puede conectar a la red"</string>>
   <string name="miuichromium_error_page_reload">Recargar</string>
   <string name="miuichromium_error_page_safe_network">Modo seguro</string>
   <string name="miuichromium_error_page_server_error">Estan intentando conectarse demasiados dispositivos</string>
@@ -434,8 +433,8 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="miuishare_account_login_cancel">Cancelar</string>
   <string name="miuishare_account_login_confirmation">Inicia sesión primero</string>
   <string name="miuishare_account_login_ok">Iniciar sesión</string>
-  <string name="miuishare_account_need_activate">La cuenta Weibo debería emparejarse con tu cuenta Mi. ¿Iniciar sesión con tu cuenta Mi?</string>
-  <string name="miuishare_account_need_login">La cuenta Weibo debería emparejarse con tu cuenta Mi actual. ¿Iniciar sesión para compartir ahora?</string>
+  <string name="miuishare_account_need_activate">La cuenta Weibo debería emparejarse con tu Cuenta Mi. ¿Iniciar sesión con tu Cuenta Mi?</string>
+  <string name="miuishare_account_need_login">La cuenta Weibo debería emparejarse con tu Cuenta Mi actual. ¿Iniciar sesión para compartir ahora?</string>
   <string name="miuishare_app_name">MiuiShare</string>
   <string name="miuishare_no_network">No se pudo conectar a la red</string>
   <string name="miuishare_publish">Enviar</string>
@@ -620,10 +619,10 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="remove_bookmark">Borrar marcador</string>
   <string name="remove_bookmark_group">Borrar grupo</string>
   <string name="remove_from_bookmarks">Eliminar de marcadores</string>
-  <string name="replace">Sustituir</string>
   <string name="remove_history_item">Borrar del historial</string>
   <string name="remove_snapshot">Borrar página guardada</string>
   <string name="removed_from_bookmarks">Eliminado de marcadores</string>
+  <string name="replace">Sustituir</string>
   <string name="reply_comment_title">Res: %s</string>
   <string name="resume_download">Empezar</string>
   <string name="retry_after_network_available">No se puede conectar a la red</string>
@@ -638,7 +637,7 @@ Las páginas que visites no se verán reflejadas en el historial"</string>
   <string name="same_folder_name_warning">Ya existe una carpeta con el mismo nombre</string>
   <string name="save_button_text">Guardar</string>
   <string name="save_dialog_title">Guardar</string>
-  <string name="save_file">Guardar %s archivos</string>
+  <string name="save_file">Guardar archivos %s</string>
   <string name="save_file_already_exist_alert_message">Ya existe un archivo con el mismo nombre, ¿quieres sobrescribirlo?</string>
   <string name="save_file_already_exist_alert_title">¿Sobrescribir archivo?</string>
   <string name="save_form_data_confirm_message">Apagar esta característica puede afectar al uso.</string>

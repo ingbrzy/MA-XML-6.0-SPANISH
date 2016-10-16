@@ -8,9 +8,11 @@
   <string name="alert_message_delete">¿Eliminar %1$s ?</string>
   <string name="alert_message_delete_note">¿Borrar esta nota?</string>
   <string name="alert_message_edit_anyway">La edición de la nota podría provocar la pérdida de su contenido.</string>
+  <string name="alert_message_restore">"No se pudo abrir esta nota. Restaurarla a editar su contenido."</string>
   <string name="alert_title_delete">¿Eliminar nota?</string>
   <string name="alert_title_edit_anyway">Esta nota tiene contenido no compatible</string>
   <string name="alert_title_hidden_note">Recibido un recordatorio de una nota oculta</string>
+  <string name="alert_title_restore">Restaurar nota</string>
   <string name="all_folder_name">Todas las notas</string>
   <string name="all_terms">%1$s y %2$s</string>
   <string name="app_name">Notas</string>
@@ -22,16 +24,23 @@
   <string name="call_folder_name">Llamadas grabadas</string>
   <string name="default_folder_name">Notas</string>
   <string name="delete_folder_dialog_tile">Eliminar carpetar</string>
+  <string name="dlg_btn_set_password">Establecer contraseña</string>
   <string name="dlg_check_reminder">"No mostrar de nuevo"</string>
   <string name="dlg_delete_message">Eliminando…</string>
   <string name="dlg_desc_confirm_alarm_silent">Las alarmas activas no sonarán cuando se desactive el sonido.</string>
   <string name="dlg_hide_message">Ocultando…</string>
   <string name="dlg_info_creating_message">Creando mensaje…</string>
+  <string name="dlg_message_password_reset">"La contraseña de notas ocultas será reemplazada por la contraseña de privacidad que funciona para mensajes, fotos, y carpetas ocultas"</string>
+  <string name="dlg_message_set_password">La contraseña de privacidad funciona para mensajes, fotos, y carpetas ocultas</string>
+  <string name="dlg_message_use_privacy_password">Utilizar la contraseña de privacidad. Funciona para mensajes, fotos, y carpetas ocultas</string>
   <string name="dlg_move_message">Moviendo…</string>
   <string name="dlg_quick_delete_title">Borrado rápido</string>
   <string name="dlg_restore_message">Restaurando…</string>
   <string name="dlg_stick_message">Fijando…</string>
   <string name="dlg_title_confirm_alarm_silent">Silenciar alarmas</string>
+  <string name="dlg_title_password_reset">Actualizar su contraseña</string>
+  <string name="dlg_title_set_password">Establecer contraseña</string>
+  <string name="dlg_title_use_privacy_password">Utilizar la contraseña de privacidad</string>
   <string name="dlg_unhide_message">Desocultando…</string>
   <string name="empty_folder_hint">"No hay carpetas
 Pulse en el signo más para crear una carpeta"</string>
@@ -47,9 +56,11 @@ Pulse en el signo más para crear una carpeta"</string>
   <string name="error_unsupport_content">Esta nota contiene contenido no compatible, toque aquí para actualizar</string>
   <string name="error_widget_exist_for_send_to_desktop">Esta nota ya existe en el escritorio</string>
   <string name="folder_exist">Ya existe una carpeta con ese nombre</string>
+  <string name="force_touch_menu_add">Añadir nota</string>
   <string name="format_move_notes_out_folder">Se ha movido %1$s</string>
   <string name="format_move_notes_to_folder">Se ha movido %1$s a %2$s</string>
   <string name="hidden_notes_fragment_title">Notas ocultas</string>
+  <string name="hint_cannot_view_hidden_note_content">"No se puede ver el contenido de las notas ocultas"</string>
   <string name="hint_foler_name">Nombre</string>
   <string name="info_note_enter_desktop">Nota añadida al escritorio</string>
   <string name="loading_text">Espere un segundo…</string>
@@ -96,6 +107,7 @@ Pulse en el signo más para crear una carpeta"</string>
   <string name="pref_title_font_size">Tamaño de fuente</string>
   <string name="pref_title_note_style">Estilo</string>
   <string name="pref_title_recover_help">Recuperar notas</string>
+  <string name="pref_title_show_root_folder_in_homepage">Mostrar notas rápidas en la página de inicio</string>
   <string name="pref_title_skip_confirm_for_quick_delete">Eliminación rápida</string>
   <string name="recover_notes_hint">Se ha producido un error, vaya al i.mi.com para restaurar notas.</string>
   <string name="redo">Rehacer</string>
@@ -124,7 +136,7 @@ Pulse en el signo más para crear una carpeta"</string>
   <string name="sns_desc_image_preview">Vista previa del mensaje</string>
   <string name="sns_desc_preview_wechat">Vista previa del mensaje en WeChat</string>
   <string name="sns_desc_preview_weibo">Vista previa del mensaje en Weibo</string>
-  <string name="sns_footer_text">Creado con Mi Notas</string>
+  <string name="sns_footer_text">Creado con Notas Mi</string>
   <string name="sns_hint_content">Escribir un mensaje</string>
   <string name="sns_hint_title">Asunto (opcional)</string>
   <string name="sns_message_disconnect">No se puede conectar a la red. Comprueba la conexión de datos y vuelve a intentarlo.</string>

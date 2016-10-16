@@ -25,7 +25,6 @@
   <string name="convertion_unit_weight">Conversor de pesos</string>
   <string name="cos">cos</string>
   <string name="cosDesc">coseno</string>
-  <string name="cos_mathematical_value">cos</string>
   <string name="currency_update_time_format">Actualizado %s</string>
   <string name="current_rate_remind_commercial"/>
   <string name="current_rate_remind_fund"/>
@@ -48,7 +47,6 @@
   <string name="dotDesc">punto</string>
   <string name="e">e</string>
   <string name="eDesc">Número de Euler</string>
-  <string name="e_mathematical_value">e</string>
   <string name="enter">↓</string>
   <string name="equal">=</string>
   <string name="equalDesc">es igual a</string>
@@ -82,10 +80,8 @@
   <string name="leftParenDesc">paréntesis izquierdo</string>
   <string name="lg">log</string>
   <string name="lgDesc">logaritmo</string>
-  <string name="lg_mathematical_value">lg</string>
   <string name="ln">ln</string>
   <string name="lnDesc">logaritmo natural</string>
-  <string name="ln_mathematical_value">ln</string>
   <string name="loan_edittext_hint_commercial">Introduzca la cantidad</string>
   <string name="loan_edittext_hint_commercial_combined">Comercial</string>
   <string name="loan_edittext_hint_fund">Introduzca la cantidad</string>
@@ -145,12 +141,10 @@
   <string name="rightParenDesc">paréntesis derecho</string>
   <string name="sin">sin</string>
   <string name="sinDesc">seno</string>
-  <string name="sin_mathematical_value">sin</string>
   <string name="sqrt">√</string>
   <string name="sqrtDesc">raíz cuadrada</string>
   <string name="tan">tan</string>
   <string name="tanDesc">tangente</string>
-  <string name="tan_mathematical_value">tan</string>
   <string name="tax_accumulation_fund">Fondo de acumulación</string>
   <string name="tax_annual_bonus_hint">Introduzca su bono antes de impuestos</string>
   <string name="tax_birth">Nacimiento</string>
@@ -183,21 +177,8 @@
   <string name="tax_update_time_format">Los datos en el año %s, proporcionados por Hexun</string>
   <string name="title_bar">Conversor de longitud</string>
   <string name="to_num">62.7</string>
-  <string name="unit_data_default_area_0">sq.m</string>
-  <string name="unit_data_default_area_1">sq.cm</string>
-  <string name="unit_data_default_currency_0">CNY</string>
-  <string name="unit_data_default_currency_1">USD</string>
-  <string name="unit_data_default_currency_2">EUR</string>
   <string name="unit_data_default_length_0">m</string>
   <string name="unit_data_default_length_1">cm</string>
-  <string name="unit_data_default_temperature_0">C</string>
-  <string name="unit_data_default_temperature_1">F</string>
-  <string name="unit_data_default_time_0">min</string>
-  <string name="unit_data_default_time_1">s</string>
-  <string name="unit_data_default_velocity_0">mps</string>
-  <string name="unit_data_default_velocity_1">kmps</string>
-  <string name="unit_data_default_volume_0">cu.m</string>
-  <string name="unit_data_default_volume_1">cu.cm</string>
   <string name="unit_data_default_weight_0">kg</string>
   <string name="unit_data_default_weight_1">g</string>
   <string name="unit_data_display_area_acre">Acre</string>
